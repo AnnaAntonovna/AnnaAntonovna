@@ -1,6 +1,11 @@
 ### Hi there 👋
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1F6EUURSrd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<video
+                    style="object-position: center center;" autoplay loop muted
+                    playsinline
+                    poster="https://static.s123-cdn-static-d.com/uploads/6064327/normal_623640d58a40e-thumbnail.jpg">
+                    <source type="video/mp4"
+                        src="[https://cdn-media.f-static.net/uploads/6064327/normal_623640d58a40e.mp4](https://youtu.be/1F6EUURSrd4)">
+                </video> 
 
 <!--
 **AnnaAntonovna/AnnaAntonovna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
