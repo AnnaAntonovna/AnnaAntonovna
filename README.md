@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AnnaAntonovna/AnnaAntonovna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <video
                     style="object-position: center center;" autoplay loop muted
                     playsinline
@@ -10,6 +7,9 @@
                     <source type="video/mp4"
                         src="https://cdn-media.f-static.net/uploads/6064327/normal_623640d58a40e.mp4">
 </video>
+
+<!--
+**AnnaAntonovna/AnnaAntonovna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
