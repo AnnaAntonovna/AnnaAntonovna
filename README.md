@@ -1,21 +1,12 @@
 ### Hi there 👋
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
-<a href="https://www.youtube.com/watch?v=1tbb4JUSlA0">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UCPl4ch3nITvVgFvOeemF-TQ&title=First+HTML+and+CSS+steps&lang=en&timestamp=1661864404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=312">
-    <img src="https://ytcards.demolab.com/?id=UCPl4ch3nITvVgFvOeemF-TQ&title=First+HTML+and+CSS+steps&lang=en&timestamp=1661864404&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=312" alt="First HTML and CSS steps" title="First HTML and CSS steps">
-  </picture>
-</a>
-
-<a href="https://www.youtube.com/watch?v=1F6EUURSrd4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UCPl4ch3nITvVgFvOeemF-TQ&title=Change+Parameter+Level+Revit+API&lang=en&timestamp=1661864404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=312">
-    <img src="https://ytcards.demolab.com/?id=UCPl4ch3nITvVgFvOeemF-TQ&title=Change+Parameter+Level+Revit+API&lang=en&timestamp=1661864404&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=312" alt="Change Parameter Level Revit API" title="Change Parameter Level Revit API">
-  </picture>
-</a>
-
+[![Change Parameter Level Revit API](https://ytcards.demolab.com/?id=1F6EUURSrd4&title=Change+Parameter+Level+Revit+API&lang=en&timestamp=1691412900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Change Parameter Level Revit API")](https://www.youtube.com/watch?v=1F6EUURSrd4)
+[![Revit: Room's materials collector](https://ytcards.demolab.com/?id=HQAaqaAwAYo&title=Revit%3A+Room%27s+materials+collector&lang=en&timestamp=1690207674&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Revit: Room's materials collector")](https://www.youtube.com/watch?v=HQAaqaAwAYo)
+[![First HTML and CSS steps](https://ytcards.demolab.com/?id=1tbb4JUSlA0&title=First+HTML+and+CSS+steps&lang=en&timestamp=1683123519&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "First HTML and CSS steps")](https://www.youtube.com/watch?v=1tbb4JUSlA0)
+[![Занятие 10. Dynamo:автоматизация моделирования, приложение нагрузок](https://ytcards.demolab.com/?id=mUHd9OJtewc&title=%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5+10.+Dynamo%3A%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F+%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%2C+%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5+%D0%BD%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D0%BA&lang=en&timestamp=1650010278&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Занятие 10. Dynamo:автоматизация моделирования, приложение нагрузок")](https://www.youtube.com/watch?v=mUHd9OJtewc)
+[![Qualifying Student Beam Championship](https://ytcards.demolab.com/?id=PTK3IIjiKeA&title=Qualifying+Student+Beam+Championship&lang=en&timestamp=1647696075&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Qualifying Student Beam Championship")](https://www.youtube.com/watch?v=PTK3IIjiKeA)
+[![BIM Championship presentation](https://ytcards.demolab.com/?id=Ii-BvNykBV4&title=BIM+Championship+presentation&lang=en&timestamp=1647636386&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "BIM Championship presentation")](https://www.youtube.com/watch?v=Ii-BvNykBV4)
 <!-- END YOUTUBE-CARDS -->
 
 <!-- BEGIN EXAMPLE-YOUTUBE-CARDS -->
