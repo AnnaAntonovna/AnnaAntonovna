@@ -17,4 +17,4 @@ jobs:
         with:
           channel_id: UCPl4ch3nITvVgFvOeemF-TQ
           readme_path: README.md
-          show_duration: true
+          author_name: GitHub Actions
