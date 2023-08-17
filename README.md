@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![First HTML and CSS steps](https://ytcards.demolab.com/?UCPl4ch3nITvVgFvOeemF-TQ&title=First+HTML+and+CSS+steps&lang=en&timestamp=1692043807&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1296 "First HTML and CSS steps")](https://www.youtube.com/watch?v=1tbb4JUSlA0)
-
 <!-- BEGIN EXAMPLE-YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=1tbb4JUSlA0">
   <picture>
