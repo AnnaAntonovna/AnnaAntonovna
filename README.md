@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hey, this is Anna 
 
 ### 📺 More ptojects!
 
