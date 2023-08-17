@@ -14,4 +14,4 @@
 [![First HTML and CSS steps](https://ytcards.demolab.com/?id=1tbb4JUSlA0&title=First+HTML+and+CSS+steps&lang=en&timestamp=1683123519&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "First HTML and CSS steps")](https://www.youtube.com/watch?v=1tbb4JUSlA0)
 <!-- END YOUTUBE-CARDS -->
 
-...And don't forget to check THIS out  https://youtu.be/99G8M0cRpsA
+...And don't forget to check <a href="https://youtu.be/99G8M0cRpsA">THIS<\a> out 
