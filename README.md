@@ -6,7 +6,7 @@
 
 ---
 
-### 📺 More ptojects!
+### 📺 More projects!
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Change Parameter Level Revit API](https://ytcards.demolab.com/?id=1F6EUURSrd4&title=Change+Parameter+Level+Revit+API&lang=en&timestamp=1691412900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Change Parameter Level Revit API")](https://www.youtube.com/watch?v=1F6EUURSrd4)
