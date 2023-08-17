@@ -1,7 +1,7 @@
 ### 👋 Hey, this is Anna 
 
 <p> ❤️‍🔥 I'm a BIM developer specialized on c# plugins for Revit and being a creative diver into Revit API. </p>
-<p> 🐍 I also know python and teached a few workshop and courses about Python for Dynamo. </p>
+<p> 🐍 I also know python and created a few workshop and courses about Python for Dynamo. </p>
 <p> 🌐 Currently I'm learning how to place BIM in a Web. So I'm studying HTML, CSS and JavaScript in accompany with THREE.js and IFC.js </p>
 
 ---
