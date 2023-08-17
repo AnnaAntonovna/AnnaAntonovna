@@ -1,5 +1,9 @@
 ### 👋 Hey, this is Anna 
+❤️‍🔥 I'm a BIM developer specialized on c# plugins for Revit and a creative diver into revit API. 
+🐍 I also know python and teached a workshop courses for dynamo for python. 
+🌐 Currently I'm learning how to place BIM in a Web. So I'm studying HTML, CSS and JavaScript in accompany with THREE.js and IFC.js 
 
+--- 
 ### 📺 More ptojects!
 
 <!-- BEGIN YOUTUBE-CARDS -->
