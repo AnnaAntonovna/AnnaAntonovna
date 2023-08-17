@@ -18,3 +18,4 @@ jobs:
           channel_id: UCPl4ch3nITvVgFvOeemF-TQ
           readme_path: README.md
           author_name: GitHub Actions
+          max_videos: 3
