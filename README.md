@@ -5,6 +5,13 @@
 <p> 🌐 Currently I'm learning how to place BIM in a Web. So I'm studying HTML, CSS and JavaScript in accompany with THREE.js and IFC.js </p>
 
 --- 
+### 🧰 Languages and Tools
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+---
+
 ### 📺 More ptojects!
 
 <!-- BEGIN YOUTUBE-CARDS -->
