@@ -19,5 +19,5 @@
 ---
 ### 👩‍🎓 My BIM portfolio
 
-<a href="https://622e12a76c242.site123.me/">Yes, this is a whole website</a> 
+<a href="https://622e12a76c242.site123.me/">Website-portfolio</a> 
 
